@@ -1,0 +1,13 @@
+Cointegration-test 
+>add in which column we would like to test for cointegration as an input into the function 
+
+Backtest
+> Calculate the cointegration for the specified column
+> work out the spread for the past period (1o days of first hour openings)
+>test the strategy of z-score above a certain level 
+>estimate profit
+
+Threading2
+>the error of 0 qtyA - not a clue. 
+
+
